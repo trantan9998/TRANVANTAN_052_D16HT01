@@ -1,0 +1,19 @@
+c:\users\sang\documents\visual studio 2015\Projects\quanlysinhvien\quanlysinhvien\bin\Debug\quanlysinhvien.exe.config
+c:\users\sang\documents\visual studio 2015\Projects\quanlysinhvien\quanlysinhvien\bin\Debug\quanlysinhvien.exe
+c:\users\sang\documents\visual studio 2015\Projects\quanlysinhvien\quanlysinhvien\bin\Debug\quanlysinhvien.pdb
+c:\users\sang\documents\visual studio 2015\Projects\quanlysinhvien\quanlysinhvien\obj\Debug\quanlysinhvien.csprojResolveAssemblyReference.cache
+c:\users\sang\documents\visual studio 2015\Projects\quanlysinhvien\quanlysinhvien\obj\Debug\quanlysinhvien.Form1.resources
+c:\users\sang\documents\visual studio 2015\Projects\quanlysinhvien\quanlysinhvien\obj\Debug\quanlysinhvien.Properties.Resources.resources
+c:\users\sang\documents\visual studio 2015\Projects\quanlysinhvien\quanlysinhvien\obj\Debug\quanlysinhvien.csproj.GenerateResource.Cache
+c:\users\sang\documents\visual studio 2015\Projects\quanlysinhvien\quanlysinhvien\obj\Debug\quanlysinhvien.exe
+c:\users\sang\documents\visual studio 2015\Projects\quanlysinhvien\quanlysinhvien\obj\Debug\quanlysinhvien.pdb
+C:\Users\TRANTAN\Downloads\LeMinhSang_D16HT01_048\quanlysinhvien\quanlysinhvien\bin\Debug\quanlysinhvien.exe.config
+C:\Users\TRANTAN\Downloads\LeMinhSang_D16HT01_048\quanlysinhvien\quanlysinhvien\bin\Debug\quanlysinhvien.exe
+C:\Users\TRANTAN\Downloads\LeMinhSang_D16HT01_048\quanlysinhvien\quanlysinhvien\bin\Debug\quanlysinhvien.pdb
+C:\Users\TRANTAN\Downloads\LeMinhSang_D16HT01_048\quanlysinhvien\quanlysinhvien\obj\Debug\quanlysinhvien.csprojAssemblyReference.cache
+C:\Users\TRANTAN\Downloads\LeMinhSang_D16HT01_048\quanlysinhvien\quanlysinhvien\obj\Debug\quanlysinhvien.Form1.resources
+C:\Users\TRANTAN\Downloads\LeMinhSang_D16HT01_048\quanlysinhvien\quanlysinhvien\obj\Debug\quanlysinhvien.Properties.Resources.resources
+C:\Users\TRANTAN\Downloads\LeMinhSang_D16HT01_048\quanlysinhvien\quanlysinhvien\obj\Debug\quanlysinhvien.csproj.GenerateResource.cache
+C:\Users\TRANTAN\Downloads\LeMinhSang_D16HT01_048\quanlysinhvien\quanlysinhvien\obj\Debug\quanlysinhvien.csproj.CoreCompileInputs.cache
+C:\Users\TRANTAN\Downloads\LeMinhSang_D16HT01_048\quanlysinhvien\quanlysinhvien\obj\Debug\quanlysinhvien.exe
+C:\Users\TRANTAN\Downloads\LeMinhSang_D16HT01_048\quanlysinhvien\quanlysinhvien\obj\Debug\quanlysinhvien.pdb
